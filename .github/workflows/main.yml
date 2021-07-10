@@ -16,3 +16,7 @@ jobs:
           plugin_habits_trim: yes
           config_timezone: Japan
           plugin_isocalendar: yes
+          plugin_languages: yes
+          plugin_languages_details: percentage
+          plugin_languages_sections: most-used, recently-used
+          commits_authoring: 60635066+midorimici@users.noreply.github.com
