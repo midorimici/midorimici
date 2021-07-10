@@ -7,8 +7,6 @@
 
 [![midorimici's GitHub stats](https://github-readme-stats.vercel.app/api?username=midorimici&show_icons=true&bg_color=F9F9F9&title_color=FFABE1&icon_color=A685E2)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=midorimici&card_width=495&bg_color=F9F9F9&title_color=FFABE1)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Metrics](https://github.com/midorimici/midorimici/blob/main/github-metrics.svg)
 
 ### :wrench: Languages and Tools
