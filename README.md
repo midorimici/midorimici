@@ -1,5 +1,6 @@
 ### :relaxed: Hello! Thanks for visiting here.
 
+- :mortar_board: I'm an university student in :jp: Japan.
 - :telescope: I'm currently working as an intern developer.
 - :seedling: I'm currently learning backend skills.
 - :computer: Since 2019, I have learned programming by myself and worked on some personal projects.
