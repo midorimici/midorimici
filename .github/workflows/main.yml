@@ -7,12 +7,13 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@main
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_achievements: yes
           plugin_habits: yes
           plugin_habits_charts: yes
+          plugin_habits_trim: yes
           config_timezone: Japan
           plugin_isocalendar: yes
           plugin_languages: yes
