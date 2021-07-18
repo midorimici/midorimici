@@ -1,16 +1,16 @@
-### :relaxed: Hello! Thanks for visiting here.
+### <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/263a.svg" alt="relaxed" width="20" height="20"> Hello! Thanks for visiting here.
 
-- :mortar_board: I'm an university student in :jp: Japan.
-- :telescope: I'm currently working as an intern developer.
-- :seedling: I'm currently learning backend skills.
-- :computer: Since 2019, I have learned programming by myself and worked on some personal projects.
-- :lipstick: I'm developing a new mobile app personal project using React Native.
+- <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f393.svg" alt="mortar_board" width="20" height="20"> I'm an university student in :jp: Japan.
+- <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f52d.svg" alt="telescope" width="20" height="20"> I'm currently working as an intern developer.
+- <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f331.svg" alt="seedling" width="20" height="20"> I'm currently learning backend skills.
+- <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f4bb.svg" alt="computer" width="20" height="20"> Since 2019, I have learned programming by myself and worked on some personal projects.
+- <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f484.svg" alt="lipstick" width="20" height="20"> I'm developing a new mobile app personal project using React Native.
 
 [![midorimici's GitHub stats](https://github-readme-stats.vercel.app/api?username=midorimici&show_icons=true&bg_color=F9F9F9&title_color=FFABE1&icon_color=A685E2)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Metrics](https://github.com/midorimici/midorimici/blob/main/github-metrics.svg)
 
-### :wrench: Languages and Tools
+### <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f527.svg" alt="wrench" width="20" height="20"> Languages and Tools
 
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank">
@@ -72,7 +72,7 @@
   </a>
 </p>
 
-### :ribbon: Main personal projects
+### <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f380.svg" alt="ribbon" width="20" height="20"> Main personal projects
 
 [![Weaketype](https://github-readme-stats.vercel.app/api/pin/?username=midorimici&repo=weaketype)](https://github.com/midorimici/weaketype)
 
@@ -85,4 +85,3 @@
 [![Geister Online](https://github-readme-stats.vercel.app/api/pin/?username=midorimici&repo=geister-online)](https://github.com/midorimici/geister-online)
 
 [![Alice Chess Online](https://github-readme-stats.vercel.app/api/pin/?username=midorimici&repo=alice-chess-online)](https://github.com/midorimici/alice-chess-online)
-
