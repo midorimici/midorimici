@@ -1,16 +1,16 @@
-### <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/263a.svg" alt="relaxed" width="20" height="20"> Hello! Thanks for visiting here.
+### <img src="https://twemoji.maxcdn.com/svg/263a.svg" alt="relaxed" width="20" height="20"> Hello! Thanks for visiting here.
 
-- <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f393.svg" alt="mortar_board" width="20" height="20"> I'm an university student in <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f1ef-1f1f5.svg" alt="mortar_board" width="20" height="20"> Japan.
-- <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f52d.svg" alt="telescope" width="20" height="20"> I'm currently working as an intern developer.
-- <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f331.svg" alt="seedling" width="20" height="20"> I'm currently learning backend skills.
-- <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f4bb.svg" alt="computer" width="20" height="20"> Since 2019, I have learned programming by myself and worked on some personal projects.
-- <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f484.svg" alt="lipstick" width="20" height="20"> I'm developing a new mobile app personal project using React Native.
+- <img src="https://twemoji.maxcdn.com/svg/1f393.svg" alt="mortar_board" width="20" height="20"> I'm an university student in <img src="https://twemoji.maxcdn.com/svg/1f1ef-1f1f5.svg" alt="mortar_board" width="20" height="20"> Japan.
+- <img src="https://twemoji.maxcdn.com/svg/1f52d.svg" alt="telescope" width="20" height="20"> I'm currently working as an intern developer.
+- <img src="https://twemoji.maxcdn.com/svg/1f331.svg" alt="seedling" width="20" height="20"> I'm currently learning backend skills.
+- <img src="https://twemoji.maxcdn.com/svg/1f4bb.svg" alt="computer" width="20" height="20"> Since 2019, I have learned programming by myself and worked on some personal projects.
+- <img src="https://twemoji.maxcdn.com/svg/1f484.svg" alt="lipstick" width="20" height="20"> I'm developing a new mobile app personal project using React Native.
 
 [![midorimici's GitHub stats](https://github-readme-stats.vercel.app/api?username=midorimici&show_icons=true&bg_color=F9F9F9&title_color=FFABE1&icon_color=A685E2)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Metrics](https://github.com/midorimici/midorimici/blob/main/github-metrics.svg)
 
-### <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f527.svg" alt="wrench" width="20" height="20"> Languages and Tools
+### <img src="https://twemoji.maxcdn.com/svg/1f527.svg" alt="wrench" width="20" height="20"> Languages and Tools
 
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank">
@@ -72,7 +72,7 @@
   </a>
 </p>
 
-### <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f380.svg" alt="ribbon" width="20" height="20"> Main personal projects
+### <img src="https://twemoji.maxcdn.com/svg/1f380.svg" alt="ribbon" width="20" height="20"> Main personal projects
 
 [![Weaketype](https://github-readme-stats.vercel.app/api/pin/?username=midorimici&repo=weaketype)](https://github.com/midorimici/weaketype)
 
