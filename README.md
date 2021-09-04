@@ -40,6 +40,9 @@
   <a href="https://recoiljs.org/" target="_blank">
     <img src="https://recoiljs.org/img/logo.svg" alt="recoil" width="40" height="40"/>
   </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+  </a>
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a>
