@@ -83,7 +83,7 @@
 
 [![gensonos](https://github-readme-stats.vercel.app/api/pin/?username=midorimici&repo=gensonos)](https://github.com/midorimici/gensonos)
 
-[![fairy chess app](https://github-readme-stats.vercel.app/api/pin/?username=midorimici&repo=chess-program-for-python-and-OpenGL)](https://github.com/midorimici/chess-program-for-python-and-OpenGL)
+[![fairy chess app](https://github-readme-stats.vercel.app/api/pin/?username=midorimici&repo=chess-program-for-python-and-OpenGL)](https://github.com/midorimici/fairy-chess)
 
 [![Geister Online](https://github-readme-stats.vercel.app/api/pin/?username=midorimici&repo=geister-online)](https://github.com/midorimici/geister-online)
 
