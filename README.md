@@ -83,6 +83,6 @@
 
 [![fairy chess app](https://github-readme-stats.vercel.app/api/pin/?username=midorimici&repo=fairy-chess)](https://github.com/midorimici/fairy-chess)
 
-[![Geister Online](https://github-readme-stats.vercel.app/api/pin/?username=midorimici&repo=geister-online)](https://github.com/midorimici/geister-online)
-
 [![Alice Chess Online](https://github-readme-stats.vercel.app/api/pin/?username=midorimici&repo=alice-chess-online)](https://github.com/midorimici/alice-chess-online)
+
+[![Magic Pantry](https://github-readme-stats.vercel.app/api/pin/?username=midorimici&repo=magic-pantry)](https://github.com/midorimici/magic-pantry)
