@@ -1,6 +1,6 @@
 ### <img src="https://twemoji.maxcdn.com/svg/263a.svg" alt="relaxed" width="20" height="20"> Hello! Thanks for visiting my profile page.
 
-- <img src="https://twemoji.maxcdn.com/svg/1f393.svg" alt="mortar_board" width="20" height="20"> I'm an university student in <img src="https://twemoji.maxcdn.com/svg/1f1ef-1f1f5.svg" alt="mortar_board" width="20" height="20"> Japan.
+- <img src="https://twemoji.maxcdn.com/svg/1f393.svg" alt="mortar_board" width="20" height="20"> I'm a university student in <img src="https://twemoji.maxcdn.com/svg/1f1ef-1f1f5.svg" alt="mortar_board" width="20" height="20"> Japan.
 - <img src="https://twemoji.maxcdn.com/svg/1f52d.svg" alt="telescope" width="20" height="20"> I'm currently working as an intern developer.
 - <img src="https://twemoji.maxcdn.com/svg/1f4bb.svg" alt="computer" width="20" height="20"> Since 2019, I have learned programming by myself and worked on some personal projects.
 
