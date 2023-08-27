@@ -78,11 +78,11 @@
 
 ### <img src="https://twemoji.maxcdn.com/svg/1f380.svg" alt="ribbon" width="20" height="20"> Main personal projects
 
+[![github-for-cats](https://github-readme-stats.vercel.app/api/pin/?username=midorimici&repo=github-for-cats)](https://github.com/midorimici/github-for-cats)
+
+[![gentestcase](https://github-readme-stats.vercel.app/api/pin/?username=midorimici&repo=gentestcase)](https://github.com/midorimici/gentestcase)
+
 [![Weaketype](https://github-readme-stats.vercel.app/api/pin/?username=midorimici&repo=weaketype)](https://github.com/midorimici/weaketype)
-
-[![jQuery - JavaScript Converter](https://github-readme-stats.vercel.app/api/pin/?username=midorimici&repo=jqjsconverter)](https://github.com/midorimici/jqjsconverter)
-
-[![gensonos](https://github-readme-stats.vercel.app/api/pin/?username=midorimici&repo=gensonos)](https://github.com/midorimici/gensonos)
 
 [![fairy chess app](https://github-readme-stats.vercel.app/api/pin/?username=midorimici&repo=fairy-chess)](https://github.com/midorimici/fairy-chess)
 
